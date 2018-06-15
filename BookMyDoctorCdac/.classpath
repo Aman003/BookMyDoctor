@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-9.0.1">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
@@ -13,5 +14,68 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="jarfiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jarfiles/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="jarfiles/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aop-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aop-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aspects-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aspects-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-aspects-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-beans-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-beans-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-support-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-support-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-context-support-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-core-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-core-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-expression-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-expression-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-tomcat-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-tomcat-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-instrument-tomcat-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jdbc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jdbc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jms-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jms-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-jms-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-messaging-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-messaging-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-messaging-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-orm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-orm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-orm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-oxm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-oxm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-oxm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-test-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-test-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-test-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-tx-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-tx-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-tx-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-web-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-web-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-web-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-portlet-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-portlet-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-webmvc-portlet-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-websocket-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-websocket-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="jarfiles/spring-websocket-4.1.4.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
